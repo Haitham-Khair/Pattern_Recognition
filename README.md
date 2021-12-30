@@ -1,1 +1,1 @@
-# Pattern_Recognition
+# Pattern_Recognition Tasks
